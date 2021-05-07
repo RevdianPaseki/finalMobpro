@@ -20,7 +20,7 @@ const Settings = ({navigation}) => {
                             </View>
                             
                             <View style={{padding: 15}}></View>
-                            <View style={{marginTop: 20, paddingHorizontal: 80}}>
+                            <View style={{marginTop: 20, paddingLeft: 160, paddingRight: 20}}>
                                 <Button bgColor= '#F4511E' text="Change" textColor="black" />
                             </View>
                         </View>
